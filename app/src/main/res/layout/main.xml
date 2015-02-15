@@ -22,6 +22,12 @@
             android:clickable="true"
 	        android:background="#f00" />
 
+        <Button
+            android:id="@+id/btn_conflict"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_conflict"/>
+
     </com.umpay.touchevent.MyLinearLayout>
 
 </com.umpay.touchevent.MyFrameLayout>
