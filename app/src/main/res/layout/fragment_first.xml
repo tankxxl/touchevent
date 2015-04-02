@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.umpay.touchevent.conflict.HorizontalListView
+    <com.rgz.touchevent.conflict.HorizontalListView
         android:id="@+id/hscroll"
         android:layout_width="match_parent"
         android:layout_height="90dip"

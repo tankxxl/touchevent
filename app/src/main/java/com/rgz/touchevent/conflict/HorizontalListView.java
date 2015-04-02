@@ -1,4 +1,4 @@
-package com.umpay.touchevent.conflict;
+package com.rgz.touchevent.conflict;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -11,7 +11,6 @@ import android.view.GestureDetector;
 import android.view.GestureDetector.OnGestureListener;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListAdapter;
 import android.widget.Scroller;

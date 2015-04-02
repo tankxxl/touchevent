@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.umpay.touchevent.MyFrameLayout
+<com.rgz.touchevent.MyFrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/my_frame_layout"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="#fff" >
     
-    <com.umpay.touchevent.MyLinearLayout
+    <com.rgz.touchevent.MyLinearLayout
         android:id="@+id/my_linear_layout"
         android:layout_width="300px"
         android:layout_height="400px"
@@ -15,7 +15,7 @@
         android:layout_gravity="center"
         android:gravity="center" >
 
-       	<com.umpay.touchevent.MyTextView
+       	<com.rgz.touchevent.MyTextView
 	        android:id="@+id/my_text_view"
 	        android:layout_width="130px"
 	        android:layout_height="130px"
@@ -28,6 +28,6 @@
             android:layout_height="wrap_content"
             android:text="@string/btn_conflict"/>
 
-    </com.umpay.touchevent.MyLinearLayout>
+    </com.rgz.touchevent.MyLinearLayout>
 
-</com.umpay.touchevent.MyFrameLayout>
+</com.rgz.touchevent.MyFrameLayout>

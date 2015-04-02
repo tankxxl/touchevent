@@ -1,4 +1,4 @@
-package com.umpay.touchevent;
+package com.rgz.touchevent;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.umpay.touchevent.conflict.ConflictMainActivity;
+import com.rgz.touchevent.conflict.ConflictMainActivity;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.umpay.touchevent;
+package com.rgz.touchevent;
 
 import android.content.Context;
 import android.util.AttributeSet;

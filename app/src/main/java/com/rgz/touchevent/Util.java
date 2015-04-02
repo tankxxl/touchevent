@@ -1,4 +1,4 @@
-package com.umpay.touchevent;
+package com.rgz.touchevent;
 
 /**
  * Created by rgz on 15/2/6.
